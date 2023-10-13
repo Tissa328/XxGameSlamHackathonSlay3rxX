@@ -87,6 +87,7 @@ Please review our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ## License
 
-Among Us Diagonal Chess is released under the [MIT License](LICENSE). You are free to use and modify the code as long as you follow the terms of the license.
+Among Us Diagonal Chess is released under the Creative Commons Zero v1.0 Universal
+. You are free to use and modify the code as long as you follow the terms of the license.
 
 Have fun playing Among Us Diagonal Chess! If you encounter any issues or have suggestions, please feel free to create an issue on this repository.
