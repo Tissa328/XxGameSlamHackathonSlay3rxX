@@ -4,6 +4,7 @@ pygame.init()
 
 gameExit = False
 
+(width, height) = (600, 600)
 white = (255, 255, 255)
 black = (0, 0, 0)
 size = 75
