@@ -37,7 +37,7 @@ The Board:
 
 Among Us Diagonal Chess is played on an 8x8 grid, consisting of 64 alternating light and dark squares, with 4 vent positions located on specific black squares.
 
-![Among Us Diagonal Chess Beginning Position] (https://example.com/amongus-diagonal-chess-beginning-location.png)  
+![Among Us Diagonal Chess Beginning Position](https://example.com/amongus-diagonal-chess-beginning-location.png)  
 
 The Pieces:
 
