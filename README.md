@@ -72,6 +72,12 @@ Players take turns moving their pieces.
 If a player's king is in check, they must make a move that removes the check. They can do this by moving the king, capturing the attacking piece, or blocking the attack.
 Stalemate: If a player has no legal moves left and their king is not in check, the game results in a draw called a stalemate.
 
+ O # O # X
+###########
+ X # X # O  
+###########
+ O # O # X
+
 ## Requirements
 
 - Python 3.7 or higher
