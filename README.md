@@ -1,7 +1,3 @@
-# Among Us Diagonal Chess
-
-![Among Us Diagonal Chess Logo](https://example.com/amongus-diagonal-chess-logo.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -20,8 +16,6 @@ The game features a unique board design and rule set that brings a fresh perspec
 
 Whether you are an experienced chess player or new to the game, Among Us Diagonal Chess offers a thrilling and challenging experience.
 
-![Game Screenshot](https://example.com/amongus-diagonal-chess-screenshot.png)
-
 ## Features
 
 - Unique Among Us-inspired chess board.
@@ -36,8 +30,6 @@ Whether you are an experienced chess player or new to the game, Among Us Diagona
 The Board:
 
 Among Us Diagonal Chess is played on an 8x8 grid, consisting of 64 alternating light and dark squares, with 4 vent positions located on specific black squares.
-
-![Among Us Diagonal Chess Beginning Position](https://example.com/amongus-diagonal-chess-beginning-location.png)  
 
 The Pieces:
 
